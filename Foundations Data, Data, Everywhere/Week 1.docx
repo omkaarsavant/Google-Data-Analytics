@@ -1,0 +1,126 @@
+
+GOOGLE DATA ANALYTICS
+1.	Foundations: Data, Data, Everywhere
+  
+WEEK 1:
+•	Data is a collection of facts that can include numbers, pictures, videos, words, measurements, observations, etc.
+•	Data analysis involves collecting, transforming, and organizing data to draw conclusions and make informed decisions.
+•	Data is generated and used in various industries, including e-commerce, entertainment, healthcare, manufacturing, marketing, finance, tech, and more.
+
+Course overview
+The entire program has eight courses. This is the first course and it covers about five weeks of material. 
+1.	Foundations: Data, Data, Everywhere (this course)
+2.	Ask Questions to Make Data-Driven Decisions
+3.	Prepare Data for Exploration
+4.	Process Data from Dirty to Clean
+5.	Analyze Data to Answer Questions
+6.	Share Data Through the Art of Visualization 
+7.	Data Analysis with R Programming 
+8.	Google Data Analytics Capstone: Complete a Case Study 
+
+
+Course content
+Course 1– Foundations: Data, Data, Everywhere
+1.	Introducing data analytics: Data helps us make decisions, in everyday life and in business. In this first part of the course, you will learn how data analysts use tools of their trade to inform those decisions. You will also get to know more about this course and the overall program expectations.
+2.	Thinking analytically: Data analysts balance many different roles in their work. In this part of the course, you will learn about some of these roles and the key skills that are required. You will also explore analytical thinking and how it relates to data-driven decision making.
+3.	Exploring the wonderful world of data: Data has its own life cycle, and data analysts use an analysis process that cuts across and leverages this life cycle. In this part of the course, you will learn about the data life cycle and data analysis process. They are both relevant to your work in this program and on the job as a future data analyst. You will be introduced to applications that help guide data through the data analysis process.
+4.	Setting up a data toolbox: Spreadsheets, query languages, and data visualization tools are all a big part of a data analyst’s job. In this part of the course, you will learn the basic concepts to use them for data analysis. You will understand how they work through examples provided.
+5.	Discovering data career possibilities: All kinds of businesses value the work that data analysts do. In this part of the course, you will examine different types of businesses and the jobs and tasks that analysts do for them. You will also learn how a Google Data Analytics Certificate will help you meet many of the requirements for a position with these organizations.
+6.	Completing the Course Challenge: At the end of this course, you will be able to put everything you have learned into perspective with the Course Challenge. The Course Challenge will ask you questions about the main concepts you have learned and then give you an opportunity to apply those concepts in two scenarios.
+
+Introduction to the course
+•	Data analytics is the science of using data to draw conclusions, make predictions, and decisions.
+•	The narrator didn't initially pursue a career in data analytics but realized its importance in various fields.
+•	Data analytics offers numerous opportunities in different industries and applications.
+•	The program teaches best practices and analytical thinking for data-driven decisions.
+•	The first course covers the phases of the data analysis process: ask, prepare, process, analyze, share, and act.
+•	Vignettes featuring data analytics professionals offer insights and experiences from their careers.
+•	Participants maintain a data journal to track their learning and thoughts throughout the program.
+•	Activities and discussion prompts facilitate learning and community building among learners.
+•	The program encourages learners to embark on an exciting journey into data analytics.
+
+Transforming data into insights
+
+•	Data analysts play a crucial role in various organizations by using data for decision-making.
+•	Google and many other organizations rely on data and data-driven decision-making in product development and operations.
+•	Everyday life involves recognizing patterns and relationships, which is a part of data analysis.
+•	Data analysis helps individuals make predictions and informed decisions in their personal lives.
+•	In a business setting, data analysts are essential for controlling and making sense of the vast amount of data generated.
+•	Businesses hire data analysts to turn data into insights, enabling them to improve processes, identify opportunities, and make informed decisions.
+•	Data analysis involves collecting, transforming, and organizing data to draw conclusions and make predictions.
+•	Insights derived from data analysis are shared with others, leading to actions and decisions that can transform organizations.
+•	Data analytics can lead to innovative products, services, and customer experiences, making data analysts valuable assets to businesses.
+•	The high demand for data analysts is driven by the need for organizations to leverage data for competitive advantages.
+
+
+Case Study: New data perspectives
+•	The case study discusses how data analysts applied the six steps of the data analysis process to improve workplace and business processes through people analytics.
+•	People analytics involves using data analysis to gain insights about employees and enhance the workplace environment.
+•	The six steps of the data analysis process are: ask, prepare, process, analyze, share, and act.
+•	The organization faced high turnover among new hires, prompting the analysts to address the question of how to improve employee retention for new employees.
+•	In the "Ask" step, analysts defined the project, collaborated with leaders, and asked questions to understand the problem and goals.
+•	In the "Prepare" step, they built a timeline, identified necessary data, and established data access rules.
+•	In the "Process" step, they conducted an online survey, obtained employee consent, cleaned and secured the data.
+•	In the "Analyze" step, the analysts found that hiring process efficiency and transparency were key factors in employee retention.
+•	In the "Share" step, they shared the report with managers and ensured they had the full context to discuss results with their teams.
+•	In the "Act" step, recommendations were made, including standardizing processes and conducting annual surveys.
+•	A year later, the same survey confirmed that changes improved employee retention.
+•	The case study highlights the dynamic and impactful nature of data analytics and encourages those interested to explore people analytics as a field.
+•	Data analysts can play a crucial role in improving work environments and solving diverse problems through data analysis.
+
+
+
+
+•	Cassie leads Decision Intelligence for Google Cloud, combining data science and managerial sciences.
+•	Data analysts are explorers, detectives, and artists who seek inspiration through data exploration.
+•	Specialization in data science is essential due to the vastness of the data universe.
+•	Data science comprises three disciplines: machine learning, statistics, and analytics.
+•	Analytics is for those who want to encounter unknown unknowns, explore data, and find potential insights without knowing the exact number of decisions to make.
+•	Statistics emphasizes rigor and careful decision-making to avoid incorrect conclusions.
+•	Machine learning and AI engineers focus on performance, aiming for high accuracy in automated decision-making systems.
+•	Analysts excel in speed, swiftly exploring vast data sources and uncovering valuable insights in creative, open-ended projects.
+•	Analysts should embrace exploration, enjoy the thrill of discovery, and not be overly concerned with finding right answers.
+•	The journey of exploration in data analytics can be intimidating, but it's important to let go of perfectionism and savor the fun of uncovering insights, much like unwrapping gifts on your birthday.
+
+
+
+
+Understanding the data ecosystem
+
+•	Data ecosystems consist of elements interacting to produce, manage, store, organize, analyze, and share data.
+•	This includes hardware, software tools, and people like data analysts.
+•	Data can also be stored in the cloud, accessed over the internet, and is integral to data ecosystems.
+•	Data analysts use these ecosystems to provide insights for informed decision-making in various fields, such as retail, human resources, agriculture, and environmental monitoring.
+•	Common misconceptions include differentiating between data scientists (creating new questions using data) and data analysts (finding answers to existing questions using data).
+•	Data analysis involves the collection, transformation, and organization of data to draw conclusions and make predictions, while data analytics is the broader concept covering all aspects of managing and using data.
+•	Understanding the data ecosystem and distinctions between data-related terms is crucial for effective data-driven decision-making.
+
+•	Data-driven decision-making involves using facts to guide business strategy.
+•	Data analysts help organizations make better data-driven decisions.
+•	The first step is defining a business need or problem that requires solving.
+•	Data analysts gather, analyze, and use data to uncover trends, patterns, and relationships.
+•	Data-driven strategies can build on past successes or guide businesses in new directions.
+•	Examples include streaming services using data to recommend content and e-commerce businesses shifting from physical stores to online platforms.
+•	Data combined with human experience, observation, and intuition is more powerful than data alone.
+•	Subject matter experts are important for validating data analysis results and providing valuable insights.
+•	Organizations benefit from combining data with human expertise to drive effective decision-making.
+•	Data analysts play a crucial role in empowering organizations to make data-driven decisions.
+
+
+•	Detectives and data analysts share similarities in their approach to solving problems and making decisions.
+•	Data analysts follow a structured six-step process for data-driven decision-making.
+•	Gut instinct refers to an intuitive understanding of something with little or no explanation, often based on unconscious signals or feelings.
+•	Relying solely on gut instinct without considering data can lead to biased and potentially incorrect decisions.
+•	An example is given of a restaurant venture that failed due to decisions made based on gut instinct rather than data.
+•	Data analysts should blend data with business knowledge and sometimes incorporate gut instinct to find the right balance for each project.
+•	Asking questions about project goals, stakeholders, and decision timelines helps determine the appropriate mix of data-driven and intuition-based decision-making.
+•	The blend of data, business knowledge, and gut instinct may vary depending on project goals, available time and resources.
+•	Data analysts improve their decision-making skills with practice and experience.
+
+1.	The origins of data analysis can be traced back to ancient Egypt, where the practice of organizing data began. Ancient Egyptians used papyri to document calculations and theories, creating early forms of spreadsheets and checklists.
+2.	The data analysis process involves several phases, including asking questions, preparing data, processing data, analyzing data, sharing results, and taking action.
+3.	Different organizations and experts may have variations of the data analysis life cycle. Some common models include EMC's cyclical model, SAS's iterative model, a project-based data analytics life cycle, and a big data analytics life cycle. Each model emphasizes various stages of the analysis process.
+4.	The key takeaway is that while there are different approaches to data analysis, they all share core concepts and principles. Data analysts can choose the model that best suits their needs while following fundamental steps to analyze data effectively.
+By understanding the evolution and variations of data analysis processes, you'll be better equipped to navigate the field of data analytics and apply the most suitable approach to your projects.
+
+
